@@ -1,0 +1,501 @@
+Age,Gender,Condition,HospitalVisits,LengthOfStay
+56,Female,Heart Disease,1,4
+69,Male,Heart Disease,5,13
+46,Female,None,7,12
+32,Male,Heart Disease,1,7
+60,Male,Heart Disease,4,13
+25,Female,Asthma,6,11
+78,Female,Diabetes,2,1
+38,Female,Diabetes,5,6
+56,Male,Asthma,1,3
+75,Female,None,6,11
+36,Male,Diabetes,6,10
+40,Male,Heart Disease,4,7
+28,Male,Diabetes,8,10
+28,Female,Heart Disease,4,2
+41,Female,None,8,14
+70,Male,Asthma,8,2
+53,Male,Diabetes,5,13
+57,Female,Asthma,4,4
+41,Male,Diabetes,2,1
+20,Female,Heart Disease,3,3
+39,Male,Asthma,3,13
+70,Female,Diabetes,4,9
+19,Male,Heart Disease,4,7
+41,Female,Asthma,5,7
+61,Male,Asthma,4,13
+47,Female,Diabetes,8,13
+55,Female,Diabetes,6,11
+19,Male,Diabetes,6,4
+77,Male,Heart Disease,8,2
+38,Female,Diabetes,7,14
+50,Male,Asthma,8,4
+29,Female,Asthma,2,6
+75,Male,Diabetes,9,11
+39,Female,Diabetes,1,11
+78,Female,None,8,3
+61,Female,Asthma,4,1
+42,Female,Heart Disease,4,14
+66,Female,None,5,12
+44,Female,Diabetes,8,8
+76,Male,Diabetes,5,12
+59,Male,Asthma,8,13
+45,Male,Diabetes,1,5
+77,Female,Heart Disease,9,5
+33,Female,Asthma,6,11
+32,Female,Diabetes,3,4
+79,Female,Asthma,8,6
+79,Male,Diabetes,9,3
+64,Male,Diabetes,6,9
+79,Female,Diabetes,7,5
+68,Male,Heart Disease,1,3
+61,Male,Heart Disease,5,11
+72,Female,Asthma,5,1
+69,Male,Diabetes,4,10
+74,Female,Diabetes,6,12
+20,Male,Heart Disease,7,6
+54,Female,Diabetes,9,2
+68,Female,Heart Disease,1,13
+24,Female,Diabetes,6,3
+38,Female,Asthma,7,1
+26,Male,Diabetes,3,9
+56,Female,Diabetes,8,8
+35,Female,None,5,12
+21,Female,Heart Disease,9,2
+42,Male,Diabetes,5,12
+77,Female,Diabetes,9,11
+31,Male,None,4,8
+67,Female,None,9,12
+75,Male,Heart Disease,5,14
+26,Male,None,9,9
+43,Female,Asthma,3,1
+70,Male,None,4,13
+19,Female,Asthma,9,5
+37,Female,Heart Disease,6,8
+45,Female,Heart Disease,2,11
+64,Male,Heart Disease,7,14
+77,Male,Heart Disease,2,2
+24,Female,Heart Disease,2,4
+61,Female,Asthma,1,7
+78,Male,Asthma,3,3
+25,Female,Heart Disease,6,13
+64,Female,None,8,12
+52,Female,Diabetes,9,5
+31,Male,Heart Disease,7,8
+34,Male,None,4,12
+53,Male,Diabetes,6,10
+67,Female,Heart Disease,5,3
+57,Female,Heart Disease,8,4
+21,Female,Asthma,1,14
+19,Male,Diabetes,1,9
+79,Female,Diabetes,6,14
+23,Female,None,2,14
+71,Female,Asthma,5,7
+59,Female,Asthma,1,1
+21,Male,Asthma,7,14
+71,Male,Asthma,1,12
+46,Female,Diabetes,4,4
+35,Male,Diabetes,9,4
+43,Male,Heart Disease,1,9
+61,Female,Heart Disease,4,6
+51,Female,Asthma,6,9
+27,Male,Asthma,6,12
+79,Female,Asthma,8,6
+53,Male,Heart Disease,1,6
+31,Female,None,7,5
+48,Male,None,1,5
+65,Female,Heart Disease,7,2
+32,Male,Heart Disease,3,8
+25,Male,Heart Disease,8,8
+31,Male,Heart Disease,3,11
+40,Female,Heart Disease,1,13
+77,Male,Heart Disease,8,1
+74,Male,Asthma,3,8
+79,Female,Asthma,2,5
+57,Female,Asthma,1,2
+38,Male,Asthma,3,14
+33,Male,Heart Disease,2,2
+62,Female,None,2,14
+35,Female,Diabetes,6,6
+64,Female,Heart Disease,1,11
+70,Female,Diabetes,2,13
+41,Female,None,6,9
+43,Male,Asthma,3,1
+42,Female,None,4,12
+77,Male,Heart Disease,1,6
+77,Male,Asthma,8,9
+77,Male,Heart Disease,7,8
+62,Female,Asthma,7,11
+58,Male,Diabetes,3,6
+46,Male,Diabetes,3,3
+32,Female,Diabetes,2,8
+62,Male,None,1,9
+18,Male,Heart Disease,7,1
+42,Female,None,7,12
+24,Male,Diabetes,2,9
+26,Male,Heart Disease,7,14
+41,Male,Diabetes,8,6
+18,Female,None,1,6
+61,Female,None,9,12
+25,Female,None,7,4
+41,Male,Diabetes,3,1
+28,Male,Heart Disease,8,10
+68,Female,Heart Disease,7,8
+34,Male,Diabetes,8,2
+25,Male,Heart Disease,6,12
+52,Female,Diabetes,9,1
+52,Female,Heart Disease,5,2
+50,Male,Asthma,3,1
+76,Male,Asthma,3,1
+22,Male,None,1,9
+59,Female,Asthma,8,13
+56,Female,Asthma,2,14
+75,Female,Asthma,3,1
+58,Female,Diabetes,8,13
+45,Male,Asthma,8,4
+24,Female,Asthma,4,10
+26,Female,None,4,6
+25,Female,Asthma,5,7
+29,Female,Asthma,6,2
+51,Female,Heart Disease,5,6
+50,Male,None,7,7
+65,Male,None,2,10
+72,Female,None,7,14
+40,Male,None,7,10
+79,Female,None,1,2
+41,Female,None,7,2
+54,Male,Diabetes,5,10
+52,Male,Asthma,3,7
+61,Female,None,3,12
+57,Female,Asthma,4,1
+39,Female,Asthma,2,8
+44,Male,Diabetes,2,11
+52,Female,None,1,13
+18,Female,Heart Disease,5,3
+52,Female,Diabetes,4,11
+54,Male,Heart Disease,2,6
+64,Female,Asthma,3,9
+31,Female,Asthma,7,6
+20,Male,Diabetes,7,9
+18,Female,Diabetes,4,7
+22,Female,Heart Disease,5,9
+43,Male,None,5,2
+72,Female,Heart Disease,6,12
+31,Male,Diabetes,9,8
+56,Male,Heart Disease,2,8
+44,Female,Diabetes,5,2
+26,Female,Heart Disease,3,12
+32,Female,Diabetes,4,14
+32,Female,Diabetes,6,4
+43,Male,Diabetes,8,14
+59,Female,None,1,11
+77,Male,Heart Disease,8,7
+30,Female,Heart Disease,7,11
+68,Female,Heart Disease,1,4
+49,Female,Diabetes,2,4
+56,Male,Heart Disease,3,6
+66,Female,Heart Disease,1,10
+69,Female,Diabetes,9,6
+78,Female,Asthma,8,10
+49,Female,Diabetes,2,3
+21,Male,Heart Disease,9,9
+47,Female,Diabetes,7,12
+54,Male,Asthma,9,10
+40,Male,Diabetes,6,14
+56,Male,Heart Disease,6,11
+62,Male,Asthma,4,2
+32,Male,None,2,6
+60,Male,Heart Disease,7,12
+46,Female,Asthma,5,7
+53,Male,Asthma,6,12
+30,Male,None,2,13
+49,Male,Diabetes,5,9
+24,Female,Diabetes,4,13
+76,Female,Heart Disease,9,3
+68,Male,None,6,10
+39,Female,Diabetes,2,3
+45,Male,None,1,7
+19,Male,Diabetes,5,14
+59,Female,Asthma,9,4
+62,Male,Diabetes,6,13
+79,Female,None,7,8
+74,Female,Asthma,5,13
+70,Male,Asthma,6,7
+23,Male,Asthma,5,5
+45,Female,None,9,7
+45,Male,Heart Disease,6,3
+61,Male,Heart Disease,8,12
+61,Male,Heart Disease,2,2
+37,Female,None,9,6
+47,Female,Asthma,5,2
+79,Male,Heart Disease,7,3
+28,Female,None,1,6
+75,Female,Heart Disease,5,5
+72,Female,Diabetes,2,8
+45,Female,Heart Disease,6,9
+42,Female,Heart Disease,1,11
+56,Male,Asthma,3,3
+79,Male,None,5,12
+50,Male,Asthma,4,10
+18,Female,Asthma,3,3
+74,Female,Asthma,5,3
+44,Male,Asthma,8,13
+79,Female,Asthma,4,13
+74,Male,Heart Disease,1,6
+69,Male,Asthma,7,1
+30,Male,Asthma,8,7
+58,Female,None,3,12
+20,Female,Diabetes,6,1
+56,Male,Heart Disease,2,14
+23,Male,Heart Disease,7,5
+25,Male,Heart Disease,8,10
+44,Male,Asthma,6,13
+26,Female,Asthma,6,8
+79,Female,Asthma,5,4
+54,Male,None,8,5
+50,Male,Diabetes,1,4
+68,Female,Asthma,4,12
+59,Female,Diabetes,4,12
+61,Male,None,3,14
+41,Male,Heart Disease,3,4
+32,Male,Asthma,4,12
+76,Female,Diabetes,1,8
+71,Female,Diabetes,2,2
+49,Female,Asthma,9,1
+49,Male,Heart Disease,2,3
+41,Male,Heart Disease,5,9
+58,Female,Heart Disease,9,4
+69,Female,None,9,10
+66,Male,Diabetes,8,5
+79,Female,Diabetes,1,2
+66,Female,Diabetes,1,4
+75,Male,None,9,2
+69,Female,Diabetes,8,2
+29,Male,None,9,4
+79,Male,Heart Disease,7,6
+56,Male,Asthma,3,7
+19,Male,Diabetes,3,10
+20,Male,Diabetes,2,3
+66,Male,Heart Disease,5,3
+54,Male,Asthma,3,10
+66,Female,None,6,6
+73,Male,Asthma,2,13
+34,Male,Heart Disease,3,12
+76,Female,Heart Disease,5,3
+66,Female,Asthma,1,13
+19,Female,None,1,2
+19,Male,None,9,8
+45,Female,Diabetes,7,5
+71,Male,None,1,1
+40,Male,Asthma,8,3
+54,Male,Heart Disease,3,10
+49,Male,Diabetes,8,8
+50,Female,Diabetes,5,4
+18,Female,Heart Disease,1,14
+36,Male,None,7,7
+79,Male,Heart Disease,5,10
+19,Male,None,6,12
+70,Female,Heart Disease,6,14
+61,Male,Asthma,8,14
+43,Male,None,9,2
+49,Female,Asthma,2,7
+23,Female,Diabetes,9,5
+49,Male,Heart Disease,9,5
+72,Female,Diabetes,7,6
+21,Female,Diabetes,1,13
+72,Male,Diabetes,7,9
+28,Female,Diabetes,5,14
+73,Male,Heart Disease,6,6
+76,Female,Diabetes,7,12
+34,Male,Heart Disease,5,13
+55,Male,Heart Disease,7,14
+41,Male,Asthma,9,8
+22,Female,None,3,7
+69,Male,None,8,9
+51,Female,Heart Disease,2,4
+23,Male,Asthma,7,2
+39,Male,Heart Disease,2,7
+28,Female,Heart Disease,4,6
+65,Male,Heart Disease,7,1
+33,Male,Asthma,3,11
+50,Female,None,2,9
+26,Male,Asthma,7,9
+77,Male,Diabetes,1,12
+76,Male,Asthma,8,2
+23,Male,Asthma,3,3
+33,Female,Asthma,2,5
+46,Female,Asthma,3,5
+20,Male,None,5,1
+37,Female,Diabetes,8,8
+77,Male,None,7,12
+76,Female,None,7,8
+53,Male,Asthma,7,4
+36,Male,Heart Disease,8,13
+43,Male,Heart Disease,1,7
+20,Male,None,4,11
+36,Male,None,6,10
+37,Male,Asthma,9,3
+49,Female,None,2,6
+24,Male,Asthma,1,14
+69,Female,Heart Disease,2,10
+58,Male,Heart Disease,7,13
+50,Female,Diabetes,3,10
+57,Female,Heart Disease,2,12
+56,Female,None,7,14
+35,Male,Heart Disease,2,9
+57,Male,Asthma,3,1
+18,Female,Heart Disease,7,5
+28,Male,Diabetes,4,4
+45,Female,Heart Disease,1,8
+74,Male,Asthma,5,11
+42,Female,Asthma,9,12
+67,Female,None,8,1
+40,Male,Heart Disease,9,9
+48,Female,Asthma,9,6
+47,Male,Diabetes,7,4
+59,Female,None,4,12
+52,Female,Diabetes,5,9
+24,Male,Heart Disease,1,11
+77,Male,Heart Disease,1,5
+33,Male,Heart Disease,3,5
+43,Female,None,8,12
+65,Male,Asthma,2,5
+74,Female,None,4,1
+69,Female,Diabetes,2,1
+77,Male,None,5,8
+66,Male,Diabetes,9,12
+19,Female,None,1,8
+18,Female,Asthma,5,12
+65,Male,Diabetes,9,6
+79,Male,Heart Disease,1,12
+29,Male,Heart Disease,9,11
+22,Male,None,8,13
+54,Male,Heart Disease,4,4
+49,Female,Diabetes,5,2
+76,Female,Heart Disease,5,14
+72,Female,Asthma,6,2
+26,Female,Asthma,7,9
+58,Male,None,8,5
+52,Male,Diabetes,8,4
+36,Male,Asthma,2,10
+65,Female,Asthma,9,13
+33,Female,Diabetes,7,1
+20,Male,Heart Disease,4,7
+37,Male,Heart Disease,4,3
+41,Female,None,8,6
+71,Female,Heart Disease,4,5
+73,Male,Diabetes,6,5
+50,Male,Asthma,5,11
+41,Female,Heart Disease,3,5
+69,Male,None,2,1
+28,Male,Heart Disease,9,1
+66,Male,Diabetes,9,3
+25,Female,None,1,14
+53,Female,Heart Disease,3,12
+55,Female,None,8,10
+57,Female,Diabetes,6,4
+37,Female,Asthma,5,5
+79,Female,Diabetes,5,2
+52,Female,Diabetes,6,8
+65,Male,Diabetes,7,11
+79,Male,Diabetes,1,11
+42,Male,Asthma,9,14
+52,Male,Asthma,3,2
+42,Male,None,4,9
+46,Male,Heart Disease,1,2
+35,Male,Asthma,3,13
+63,Female,Asthma,2,9
+35,Female,Heart Disease,2,7
+19,Male,Asthma,1,8
+71,Male,Diabetes,8,11
+52,Female,Diabetes,3,2
+33,Male,Heart Disease,3,7
+78,Male,None,6,12
+58,Female,None,8,6
+53,Male,Heart Disease,9,4
+50,Female,Heart Disease,9,7
+21,Male,Diabetes,4,14
+50,Female,None,5,13
+31,Female,Asthma,2,4
+38,Female,Diabetes,9,2
+65,Male,Heart Disease,8,10
+37,Female,None,3,12
+73,Male,Asthma,9,7
+25,Male,Asthma,3,8
+24,Male,Diabetes,9,2
+20,Male,None,2,5
+34,Female,None,9,1
+50,Female,Heart Disease,8,7
+65,Male,None,9,8
+29,Male,None,5,13
+76,Female,Diabetes,2,6
+68,Male,None,8,5
+39,Female,Asthma,6,6
+72,Male,Diabetes,8,2
+39,Male,Diabetes,5,1
+63,Female,Heart Disease,2,7
+47,Male,None,6,7
+55,Female,Heart Disease,5,10
+55,Male,Asthma,5,11
+62,Male,Diabetes,1,10
+68,Male,Diabetes,2,14
+71,Female,Diabetes,8,2
+25,Male,Asthma,3,2
+44,Male,Asthma,3,1
+44,Male,Heart Disease,8,10
+51,Male,Heart Disease,8,8
+38,Female,Heart Disease,2,8
+47,Female,None,8,1
+50,Male,Diabetes,1,12
+45,Female,Diabetes,6,11
+64,Male,Heart Disease,8,8
+50,Male,Diabetes,3,9
+22,Male,Heart Disease,8,14
+77,Female,None,1,4
+78,Female,None,9,1
+65,Female,Asthma,9,1
+36,Female,None,5,3
+21,Female,Heart Disease,4,14
+52,Female,None,6,5
+66,Female,Asthma,7,5
+34,Female,Diabetes,5,9
+61,Female,Heart Disease,9,10
+45,Male,Diabetes,3,14
+47,Female,Asthma,7,12
+46,Female,Asthma,5,2
+63,Female,Asthma,7,2
+70,Female,Diabetes,2,6
+23,Female,Diabetes,4,9
+52,Female,Diabetes,2,1
+77,Female,Diabetes,7,9
+58,Female,Asthma,2,9
+54,Female,Asthma,1,13
+41,Female,Heart Disease,9,9
+46,Female,Heart Disease,1,5
+66,Male,Diabetes,8,13
+63,Male,None,2,9
+70,Female,None,8,11
+48,Female,Asthma,3,4
+52,Male,Asthma,6,2
+77,Female,Asthma,3,13
+50,Male,Heart Disease,7,6
+69,Male,Heart Disease,9,14
+78,Male,Asthma,2,4
+38,Male,Asthma,5,6
+49,Male,Asthma,6,3
+40,Female,None,4,6
+50,Male,Heart Disease,4,2
+20,Female,None,4,2
+35,Female,None,2,13
+42,Male,Asthma,4,9
+59,Male,Asthma,1,7
+48,Female,Diabetes,6,3
+71,Male,Diabetes,1,13
+75,Male,None,6,11
+20,Female,Heart Disease,1,1
+57,Female,Asthma,6,8
+63,Male,Asthma,8,14
+41,Female,None,2,6
+67,Male,Diabetes,2,7
+49,Male,Heart Disease,4,9
+64,Male,Diabetes,3,5
